@@ -5,6 +5,7 @@ The primary goal was to explore the data using Microsoft SQL Server Management S
 While minimal data cleaning was done before analysis, I used Power BI to create clear and engaging visualizations for select key questions per each thematic section. This approach reflects real-world workflows where initial data querying and KPI calculation happen in SQL, followed by visualization and storytelling in BI tools. <br/>
 This project helped me practice and showcase my skills in SQL querying, relational data modeling, window functions, time series analysis, and data storytelling, helping me demonstrate readiness for data analyst roles. <br/>
 ## Notes about Analysis Process
+- The dataset was originally provided as CSV files. I imported the data into a local SQL Server database to enable structured querying. To help others replicate the analysis, I included a database setup script that creates the necessary tables and imports the data, allowing them to run the queries themselves. The script is available in the database_script.sql file.
 - I used SQL queries (SELECT, FROM, WHERE, GROUP BY, etc.), joins, window functions (e.g., ROW_NUMBER), CASE statements, and CTEs to extract and analyze the data.
 - The SQL queries written to extract data for analysis are available in the all_queries.sql file.
 - The interactive Power BI reports are available in the full_report.pbix file.
