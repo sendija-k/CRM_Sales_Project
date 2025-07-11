@@ -42,6 +42,7 @@ This project helped me practice and showcase my skills in SQL querying, relation
 - The time range covered spans 14 months, from October 20, 2016, to December 31, 2017.
 - It includes 85 client accounts, 6 products, 30 sales agents, and 3 regional teams.
 ## Pipeline Snapshot
+![Pipeline Snapshot Report](pipeline snapshot.jpg)
 - There are over 2,089 active opportunities currently in the pipeline, spread across the Engaging and Prospecting stages.
 - Of all opportunities:
   - 4,2K (48.2%) are Won
